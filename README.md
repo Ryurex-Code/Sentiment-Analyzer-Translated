@@ -1,5 +1,4 @@
 # 🌍 Sentiment Analyzer Translated
-
 Multilingual Sentiment Analyzer by first translating any language to English before running the sentiment prediction.
 
 > 🇮🇩 Bisa Bahasa Indonesia, 🇯🇵 日本語, 🇸🇦 العربية, 🇫🇷 Français, dan lainnya~ 💖  
