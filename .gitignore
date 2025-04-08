@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Code settings
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Hugging Face cache
+~/.cache/huggingface/
+
+# Model weights (optional, if you're uploading them manually to HF Hub)
+*.bin
+*.h5
+*.pt
+*.safetensors
+
+# Gradio sessions and logs
+gradio_cached_examples/
+logs/
+
+# OneDrive sync stuff
+*.tmp
+*.bak
+~$*
+*.lnk
