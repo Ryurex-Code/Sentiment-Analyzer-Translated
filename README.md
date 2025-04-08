@@ -1,4 +1,4 @@
-# 🌍 Sentiment Translated Analyzer
+# 🌍 Sentiment Analyzer Translated
 
 Multilingual Sentiment Analyzer by first translating any language to English before running the sentiment prediction.
 
